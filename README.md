@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zeek
 - 👀 I’m interested in Learning about softwear enginering 
-- 🌱 I’m currently learning HTML,CSS, and Python
+- 🌱 I’m currently learning the basics and studying HTML and CSS
 - 💞️ I’m looking to collaborate on any Projects
 - 📫 How to reach me Zcampanile@gmail.com
 
